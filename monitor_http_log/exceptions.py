@@ -1,0 +1,2 @@
+class InvalidHTTPLogLine(Exception):
+    pass
